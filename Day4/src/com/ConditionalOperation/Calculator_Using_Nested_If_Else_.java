@@ -21,6 +21,7 @@ public class Calculator_Using_Nested_If_Else_ {
 			System.out.println("Please Enter 0 to exit :\n");
 			System.out.println("Chose Operation Number :");
 			int choice = sc.nextInt();
+			
 		if (choice == 0) {
 		System.out.println("Exit Successfully!!");
 				break;
