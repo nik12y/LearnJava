@@ -1,4 +1,4 @@
-package com.books;
+package books;
 
 public class BooksRun {
     public static void main(String[] args) {

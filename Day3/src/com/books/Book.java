@@ -1,4 +1,4 @@
-package com.books;
+package books;
 
 public class Book {
     private int camlin;
